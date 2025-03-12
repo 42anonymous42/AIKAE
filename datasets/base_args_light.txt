@@ -1,0 +1,21 @@
+﻿{
+  "is_training": 1,
+  "train_only": false,
+  "data": "custom",
+  "root_path": "./datasets/",
+  "data_path": "electricity.csv",
+  "features": "M",
+  "target": "OT",
+  "freq": "h",
+  "seq_len": 96,
+  "label_len": 48,
+  "pred_len": 96,
+  "individual": false,
+  "embed_type": 0,
+  "enc_in": 321,
+  "dec_in": 7,
+  "c_out": 7,
+  "d_ff": 2048,
+  "factor": 1,
+  "batch_size": 16
+}
