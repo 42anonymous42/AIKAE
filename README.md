@@ -1,6 +1,6 @@
 # AIKAE
 
-This repository contains the official implementations of the models and experiments presented in the pre-print paper: Augmented Invertible Koopman Autoencoder.
+This repository contains the official implementations of the models and experiments presented in the pre-print paper: Augmented Invertible Koopman Autoencoder for long-term time series forecasting.
 
 **Basic usage:** Open any of the three notebooks in a Google Colab session and follow the instructions. The usage of a GPU is highly recommended for the computations to be realised in a reasonable time.
 
